@@ -14,15 +14,33 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-        I am a web developer, working in both, backend and frontend programming. Excited for improving my skills and learning new technologies. I'm open to learn and work with any web technology and currently doing freelance gigs.
+          Senior marketing strategist with an extensive experience.
         </p>
 
         <br />
 
         <p className="text-xl">
-        I like to code matters from scratch and love the idea of bringing thoughts to life. Connect with me to get your project done. <br /> <br />
-        I value minimalistic designs, thoughtful branding of the content, and customer relatable experience. Let’s discover together how we can make your project convert better!<br /> <br />
-        I enjoy creating or redesigning a distinct identity for a product or service, get more traffic from search engine and social platforms.
+          As a senior marketing strategist with a masters degree in marketing
+          from Northwestern University, I bring a wealth of knowledge and
+          expertise to the table. Throughout my career, I have developed and
+          executed numerous successful marketing campaigns for a diverse range
+          of clients, including industry leaders such as Meta, Algorand, and
+          Cohere. My ability to develop innovative and effective marketing
+          strategies has earned me a reputation as a top performer in the
+          industry. My extensive experience and knowledge of the latest
+          marketing trends and techniques make me an ideal candidate for any
+          organization looking to boost their marketing efforts. I have a proven
+          track record of creating successful marketing campaigns that drive
+          revenue and increase brand awareness. Additionally, my excellent
+          communication skills and ability to work effectively with
+          cross-functional teams make me a valuable asset to any organization. I
+          am passionate about helping businesses grow and achieve their goals
+          through strategic marketing initiatives. Whether it's developing a
+          comprehensive marketing plan, conducting market research, or creating
+          compelling content, I have the skills and experience needed to deliver
+          results. I am dedicated to staying up-to-date on the latest marketing
+          trends and technologies and am constantly seeking new and innovative
+          ways to help my clients succeed.
         </p>
       </div>
     </div>
