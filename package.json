@@ -1,6 +1,11 @@
 {
-  "name": "one-portfolio",
-  "homepage": "https://constantinirimia.github.io/pwz/",
+  "name": "pwz",
+  "homepage": "https://ziweichen.com/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/constantinirimia/pwz"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
